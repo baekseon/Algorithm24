@@ -1,3 +1,3 @@
 # Algorithm24
 
-#Contents Baek Seongyone
+#Contents 백승연
